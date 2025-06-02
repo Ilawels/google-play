@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ANIBM0KG43BVbmGp8hvZ75I6CSB8cjWe
 """
 
-### Package to install
-!pip install google_play_scraper
-!pip install -q transformers
-!pip install streamlit
-!pip install reportlab
 
 
 import streamlit as st
