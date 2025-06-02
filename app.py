@@ -191,5 +191,4 @@ if analyze_button:
 if reset_button:
     st.rerun()
 
-python --version
 
