@@ -1,0 +1,8 @@
+streamlit>=1.32.0
+pandas>=1.5.0
+matplotlib>=3.7.0
+wordcloud>=1.9.3
+google-play-scraper>=1.2.5
+transformers>=4.40.0
+torch>=2.1.0
+reportlab>=4.0.0
