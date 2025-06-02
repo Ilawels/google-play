@@ -8,7 +8,7 @@ Original file is located at
 """
 
 ### Package to install
-!pip install -q google_play_scraper
+!pip install google_play_scraper
 !pip install -q transformers
 !pip install streamlit
 !pip install reportlab
