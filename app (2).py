@@ -7,7 +7,6 @@ from google_play_scraper import app, reviews, Sort, search
 from transformers import pipeline
 from wordcloud import WordCloud
 from matplotlib.backends.backend_pdf import PdfPages
-from google.colab import files
 
 # Function to get package ID from app name
 def get_package_id(app_name):
